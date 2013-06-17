@@ -1,0 +1,10 @@
+{
+  "name": "backbone-carousel",
+  "version": "0.0.0",
+  "main": "backbone-carousel.amd.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
